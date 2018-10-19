@@ -1,7 +1,6 @@
 import * as React from 'react'
 import * as renderer from 'react-test-renderer'
 import { shallow, mount } from 'enzyme'
-import * as expect from 'expect'
 import Button from '../Button'
 
 describe('Button (Snapshot)', () => {
