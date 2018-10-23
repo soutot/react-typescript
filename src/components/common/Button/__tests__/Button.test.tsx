@@ -1,6 +1,6 @@
 import * as React from 'react'
 import * as renderer from 'react-test-renderer'
-import { shallow, mount } from 'enzyme'
+import { mount } from 'enzyme'
 import Button from '../Button'
 
 describe('Button (Snapshot)', () => {

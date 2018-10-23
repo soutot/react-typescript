@@ -88,7 +88,7 @@ class Home extends React.PureComponent<Props, State> {
   // ***** Render
   // **************************************************
   render() {
-    const { onRegisterClick } = this.props
+    // const { onRegisterClick } = this.props
 
     return (
       <UserContextConsumer>
