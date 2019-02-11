@@ -75,7 +75,7 @@ const TextFieldStyled = styled(TextField).attrs({
     text-align: center;
     width: 260px;
   }
-`
+` as any
 
 // **************************************************
 // ***** Interfaces
